@@ -4,3 +4,7 @@ langchain-core
 langchain-community
 python-dotenv
 langchain-openai
+arxiv
+wikipedia
+arxiv<3
+tavily
